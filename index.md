@@ -3,7 +3,7 @@
 
 # 빠귀
 빠귀는 디스코드 놀이봇입니다.
-[https://discord.com/api/oauth2/authorize?client_id=655022502216728576&permissions=8&scope=bot]
+https://discord.com/api/oauth2/authorize?client_id=655022502216728576&permissions=8&scope=bot
 
 # 도움말
 ## 대화 관련
